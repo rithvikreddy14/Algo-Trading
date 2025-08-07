@@ -1,0 +1,7 @@
+pandas
+requests
+gspread
+oauth2client
+pandas-ta
+scikit-learn
+python-telegram-bot
